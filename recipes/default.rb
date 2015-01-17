@@ -13,22 +13,22 @@ package "mecab" do
 end
 
 package "mecab-ipadic-utf8" do
-  action :instal
+  action :install
 end
 
 # mecab-python
 package "python-dev" do
-  action :instal
+  action :install
 end
 
 package "libmecab-dev" do
-  action :instal
+  action :install
 end
 
 package "build-essential" do
-  action :instal
+  action :install
 end
 
 package "g++" do
-  action :instal
+  action :install
 end
